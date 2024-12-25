@@ -1,0 +1,23 @@
+.header {
+    color: rgb(92, 0, 0);
+    font-weight: 600;
+    text-align: center;
+    padding: 6px;
+    border-radius: 4px;
+    background-color: rgb(255, 156, 156);
+}
+
+.content {
+  color: rgb(122, 122, 122);
+  background-color: rgb(236, 236, 236);
+}
+
+.footer {
+    color: rgb(57, 57, 57);
+    text-align: center;
+    padding: 6px;
+    margin: 10px;
+    border-radius: 4px;
+    background-color: rgb(245, 245, 245);
+    border: 1px solid rgb(207, 207, 207);
+}
