@@ -1,0 +1,28 @@
+.alertButton {
+    background-color: rgb(46, 46, 255);
+    padding: 8px 30px 8px 30px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 18px;
+    border: 0px;
+}
+
+.alertButton:hover {
+    background-color: blue;
+}
+
+.toolbar {
+    background-color: skyblue;
+}
+
+.saveToolbar {
+    margin-top: 40px;
+    background-color: green;
+}
+
+.paragraph {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
