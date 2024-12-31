@@ -14,6 +14,7 @@ export default defineConfig({
         note: "note.html",
         timer: "timer.html",
         guestbook: "guestbook.html",
+        products: "products.html",
       },
     },
   },

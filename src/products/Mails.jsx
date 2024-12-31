@@ -17,7 +17,6 @@ export const Mails = () => {
     }
   }, [load]);
 
-
   return (
     <div className="products-page">
       <header className="header">Disposisi Masuk Pages</header>
@@ -28,9 +27,7 @@ export const Mails = () => {
             Dispo Masuk
           </button>
         </div>
-        <div className="container-card">
-          
-        </div>
+        <div className="container-card"></div>
       </main>
       <footer className="footer">Products pages Footer</footer>
     </div>
