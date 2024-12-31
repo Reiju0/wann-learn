@@ -12,6 +12,8 @@ export default defineConfig({
         contact: "contact.html",
         task: "task.html",
         note: "note.html",
+        timer: "timer.html",
+        guestbook: "guestbook.html",
       },
     },
   },
